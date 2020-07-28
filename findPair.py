@@ -1,7 +1,9 @@
 """find-pair-with-given-sum-array"""
 def findpair(arr,arsum):
     output = []
+    #Consider each element except last element
     for i in range(len(arr)-1):
+        #Start from ith element till last element
         for j in range(i+1,len(arr)):
             if arr[i]+arr[j] ==  arsum:
                 output.append((arr[i],arr[j]))
