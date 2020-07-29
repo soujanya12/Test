@@ -1,0 +1,10 @@
+1. LinkedIn/Facebook scraper for collecting your Friend list and storing their details in JSON file/XML file/Excel file or some Cloud Database like Google Firebase API
+2. Sending Connection request on LinkedIn with a Personalized note using the Selenium library.
+3. Simple Chat app with FB login embedded in it. Host it on a free cloud.
+4. Automate Tinder swipe using Selenium library
+5. Share-Market "price change" notification software for which takes any company’s Stock symbol as Input
+6. Weather app to use any free Weather API to send you your city's weather details via Email/Sms everyday morning.
+7. Currency exchange software which sends Email/SMS if the currency exchange rate of Rupees has changed more than X %age
+8. URL shortener software which takes a big URL as an input and returns a short URL. Just like TinyUrl. This should use a Cloud Database storage like Google Firebase and take care of "Url collision".
+9. Convert a complex JSON into Flat Map. Just like "json-flattener" Java open-source library
+10. A website that takes Student's details as an Input and use a templating engine to generate a PDF Resume using those details.
