@@ -11,3 +11,16 @@ in work but in vain. He wanted to join Engg but due to financial problems, he jo
 He was thrown out of the hostel for not paying the hostel fees. He used to sleep in the Mysore Bus stand and used to wash his clothes in a public toilet.
 He learned computer languages such as asC++JavaCore and Python on his own. He learned about *Drone* through eWaste.
 After 80 attempts he succeeded in developing one such Drone.
+========================================================================================================================================================================
+I was working with TCS for 2.5 years. So if you are a fresher you might be able to crack it in lesser time.
+Here is my Experience,
+I started my preparation on Jan 10′th of 2019. I did not do much coding in college as i was from a circuit branch. I picked Python in the beginning, as it gave me the felxibility to just think about the logic and not that much about the syntax.
+It took a months time to get myself comfortable with loops, variables, scope, storage classes, primitive data types, condition based branching and some basic problems about array’s and strings .
+Then i took time to get myself used to Data structures like Linked list, hash map, Binary Tree’s, BST, DP, Backtracking, Greedy Algorithms, Heaps .
+All these topics are complex and a lot of times you would feel dumb and useless when you see a new question. It took 6 months for me to not feel scared when i see a new question and see the patterns for these questions. So It was August.
+Then i started leetcode grinding, solved problems, everyday. Daily one problem in the morning before i went to work , another problem after i come home. I could see myself getting better at these problems, and i gained confidence every day. I also got myself used to some basic CS fundamentals like Computer Networks, OS and DBMS and this took up two more months . So it came up to November.
+And I vividly remember DEC 4 there was a Amazon SDE off campus drive which happened and i had 6 rounds ( 1 online test , followed by 4 rounds, 1 bar raiser round). I remember Acing every question and i was finally told that i am hired after the bar raiser round. I was in tears of joy, because it took a year’s effort for me. Again I was working and i learn things slowly. You might be able to complete it earlier.
+There are some paid resources that would help you fast track the learning. But if you learn it the hard way, then you won’t forget it and that will be shown in the interview .
+Try practicing problems in white board as you go along.
+Note down why your approach did not work and note down why the right approach is working.
+Revise everyday . You will be bogged down with information everyday so it is always good to make notes.
