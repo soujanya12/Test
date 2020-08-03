@@ -8,3 +8,13 @@
 8. URL shortener software which takes a big URL as an input and returns a short URL. Just like TinyUrl. This should use a Cloud Database storage like Google Firebase and take care of "Url collision".
 9. Convert a complex JSON into Flat Map. Just like "json-flattener" Java open-source library
 10. A website that takes Student's details as an Input and use a templating engine to generate a PDF Resume using those details.
+
+
+1. An Alexa skill or Google home app to take voice notes.
+2. A Chrome extension to record total hours spent on Distraction websites(YouTube, Instagram, FB) in a day.
+3. Python lovers, use 'newspaper' module to scrape any News website and store the Summary of each news article for the given day(web crawling) in your cloud based Database eg. Firebase.
+4. A script listening to your router traffic and emails you the details of a device which connects to your Wi-fi router.
+5. A website which takes your Google maps timeline history data and overlays all the location you visited in last year, on a Map.
+6. A service which after Google OAuth2 authentication, accesses all your emails via Gmail api and returns the email link which matches your Search String. Can use Lucene for text indexing and search retrieval.
+7. a. A service to take a hashtag word as input and use Twitter api to search and return all Tweets which used this hashtag.
+b. Next use pre-trained Sentiment analysis ML model to give a rank(positive, negative, neutral) to Hashtag.
